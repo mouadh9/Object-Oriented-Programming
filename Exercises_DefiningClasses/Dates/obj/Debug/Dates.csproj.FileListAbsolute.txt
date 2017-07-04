@@ -1,0 +1,5 @@
+C:\Users\Jordan\Documents\GitHub\Object-OrientedProgrammingBasics\Exercises_DefiningClasses\Dates\bin\Debug\Dates.exe.config
+C:\Users\Jordan\Documents\GitHub\Object-OrientedProgrammingBasics\Exercises_DefiningClasses\Dates\bin\Debug\Dates.exe
+C:\Users\Jordan\Documents\GitHub\Object-OrientedProgrammingBasics\Exercises_DefiningClasses\Dates\bin\Debug\Dates.pdb
+C:\Users\Jordan\Documents\GitHub\Object-OrientedProgrammingBasics\Exercises_DefiningClasses\Dates\obj\Debug\Dates.exe
+C:\Users\Jordan\Documents\GitHub\Object-OrientedProgrammingBasics\Exercises_DefiningClasses\Dates\obj\Debug\Dates.pdb

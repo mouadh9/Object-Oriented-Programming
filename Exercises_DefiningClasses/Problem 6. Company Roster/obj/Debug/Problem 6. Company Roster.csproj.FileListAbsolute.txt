@@ -1,0 +1,6 @@
+C:\Users\Jordan\Documents\GitHub\Object-OrientedProgrammingBasics\Exercises_DefiningClasses\Problem 6. Company Roster\bin\Debug\Problem_6.Company_Roster.exe.config
+C:\Users\Jordan\Documents\GitHub\Object-OrientedProgrammingBasics\Exercises_DefiningClasses\Problem 6. Company Roster\bin\Debug\Problem_6.Company_Roster.exe
+C:\Users\Jordan\Documents\GitHub\Object-OrientedProgrammingBasics\Exercises_DefiningClasses\Problem 6. Company Roster\bin\Debug\Problem_6.Company_Roster.pdb
+C:\Users\Jordan\Documents\GitHub\Object-OrientedProgrammingBasics\Exercises_DefiningClasses\Problem 6. Company Roster\obj\Debug\Problem 6. Company Roster.csprojResolveAssemblyReference.cache
+C:\Users\Jordan\Documents\GitHub\Object-OrientedProgrammingBasics\Exercises_DefiningClasses\Problem 6. Company Roster\obj\Debug\Problem_6.Company_Roster.exe
+C:\Users\Jordan\Documents\GitHub\Object-OrientedProgrammingBasics\Exercises_DefiningClasses\Problem 6. Company Roster\obj\Debug\Problem_6.Company_Roster.pdb

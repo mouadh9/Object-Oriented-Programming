@@ -1,0 +1,5 @@
+C:\Users\Jordan\Documents\GitHub\Object-OrientedProgrammingBasics\Exercises_DefiningClasses\Problem 7. Speed Racing\bin\Debug\Problem_7.Speed_Racing.exe
+C:\Users\Jordan\Documents\GitHub\Object-OrientedProgrammingBasics\Exercises_DefiningClasses\Problem 7. Speed Racing\bin\Debug\Problem_7.Speed_Racing.pdb
+C:\Users\Jordan\Documents\GitHub\Object-OrientedProgrammingBasics\Exercises_DefiningClasses\Problem 7. Speed Racing\obj\Debug\Problem 7. Speed Racing.csprojResolveAssemblyReference.cache
+C:\Users\Jordan\Documents\GitHub\Object-OrientedProgrammingBasics\Exercises_DefiningClasses\Problem 7. Speed Racing\obj\Debug\Problem_7.Speed_Racing.exe
+C:\Users\Jordan\Documents\GitHub\Object-OrientedProgrammingBasics\Exercises_DefiningClasses\Problem 7. Speed Racing\obj\Debug\Problem_7.Speed_Racing.pdb

@@ -1,0 +1,5 @@
+C:\Users\Jordan\Documents\GitHub\Object-OrientedProgrammingBasics\Exercises_DefiningClasses\Problem1.People\bin\Debug\Problem1.People.exe.config
+C:\Users\Jordan\Documents\GitHub\Object-OrientedProgrammingBasics\Exercises_DefiningClasses\Problem1.People\bin\Debug\Problem1.People.exe
+C:\Users\Jordan\Documents\GitHub\Object-OrientedProgrammingBasics\Exercises_DefiningClasses\Problem1.People\bin\Debug\Problem1.People.pdb
+C:\Users\Jordan\Documents\GitHub\Object-OrientedProgrammingBasics\Exercises_DefiningClasses\Problem1.People\obj\Debug\Problem1.People.exe
+C:\Users\Jordan\Documents\GitHub\Object-OrientedProgrammingBasics\Exercises_DefiningClasses\Problem1.People\obj\Debug\Problem1.People.pdb

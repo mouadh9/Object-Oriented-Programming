@@ -1,0 +1,6 @@
+C:\Users\Jordan\Documents\GitHub\Object-OrientedProgrammingBasics\Lab_Encapsulation\Lab_Encapsulation\bin\Debug\Lab_Encapsulation.exe.config
+C:\Users\Jordan\Documents\GitHub\Object-OrientedProgrammingBasics\Lab_Encapsulation\Lab_Encapsulation\bin\Debug\Lab_Encapsulation.exe
+C:\Users\Jordan\Documents\GitHub\Object-OrientedProgrammingBasics\Lab_Encapsulation\Lab_Encapsulation\bin\Debug\Lab_Encapsulation.pdb
+C:\Users\Jordan\Documents\GitHub\Object-OrientedProgrammingBasics\Lab_Encapsulation\Lab_Encapsulation\obj\Debug\Lab_Encapsulation.csprojResolveAssemblyReference.cache
+C:\Users\Jordan\Documents\GitHub\Object-OrientedProgrammingBasics\Lab_Encapsulation\Lab_Encapsulation\obj\Debug\Lab_Encapsulation.exe
+C:\Users\Jordan\Documents\GitHub\Object-OrientedProgrammingBasics\Lab_Encapsulation\Lab_Encapsulation\obj\Debug\Lab_Encapsulation.pdb
