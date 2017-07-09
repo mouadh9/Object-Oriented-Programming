@@ -1,0 +1,6 @@
+C:\Users\Jordan\Documents\GitHub\Object-OrientedProgrammingBasics\Exercises_Encapsulation\Box\bin\Debug\Box.exe.config
+C:\Users\Jordan\Documents\GitHub\Object-OrientedProgrammingBasics\Exercises_Encapsulation\Box\bin\Debug\Box.exe
+C:\Users\Jordan\Documents\GitHub\Object-OrientedProgrammingBasics\Exercises_Encapsulation\Box\bin\Debug\Box.pdb
+C:\Users\Jordan\Documents\GitHub\Object-OrientedProgrammingBasics\Exercises_Encapsulation\Box\obj\Debug\Box.csprojResolveAssemblyReference.cache
+C:\Users\Jordan\Documents\GitHub\Object-OrientedProgrammingBasics\Exercises_Encapsulation\Box\obj\Debug\Box.exe
+C:\Users\Jordan\Documents\GitHub\Object-OrientedProgrammingBasics\Exercises_Encapsulation\Box\obj\Debug\Box.pdb
