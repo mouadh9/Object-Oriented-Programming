@@ -1,0 +1,6 @@
+C:\Users\Jordan\Documents\GitHub\Object-OrientedProgrammingBasics\Exercises_Encapsulation\Pizza Calories\bin\Debug\Pizza Calories.exe.config
+C:\Users\Jordan\Documents\GitHub\Object-OrientedProgrammingBasics\Exercises_Encapsulation\Pizza Calories\bin\Debug\Pizza Calories.exe
+C:\Users\Jordan\Documents\GitHub\Object-OrientedProgrammingBasics\Exercises_Encapsulation\Pizza Calories\bin\Debug\Pizza Calories.pdb
+C:\Users\Jordan\Documents\GitHub\Object-OrientedProgrammingBasics\Exercises_Encapsulation\Pizza Calories\obj\Debug\Pizza Calories.csprojResolveAssemblyReference.cache
+C:\Users\Jordan\Documents\GitHub\Object-OrientedProgrammingBasics\Exercises_Encapsulation\Pizza Calories\obj\Debug\Pizza Calories.exe
+C:\Users\Jordan\Documents\GitHub\Object-OrientedProgrammingBasics\Exercises_Encapsulation\Pizza Calories\obj\Debug\Pizza Calories.pdb

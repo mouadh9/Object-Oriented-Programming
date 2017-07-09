@@ -6,11 +6,12 @@ namespace ShoppingSpree
     public class Product
     {
         private string name;
-        private double cost;
+        private decimal cost;
 
-        public Product()
+        public Product(string name, decimal price)
         {
-            
+            this.Name = name;
+            this.cost = price;
         }
 
         public string Name
@@ -26,7 +27,7 @@ namespace ShoppingSpree
             }
         }
 
-        public double Cost
+        public decimal Cost
         {
             get { return this.cost; }
             set

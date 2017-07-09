@@ -1,0 +1,6 @@
+C:\Users\Jordan\Documents\GitHub\Object-OrientedProgrammingBasics\Exercises_Encapsulation\ShoppingSpree\bin\Debug\ShoppingSpree.exe.config
+C:\Users\Jordan\Documents\GitHub\Object-OrientedProgrammingBasics\Exercises_Encapsulation\ShoppingSpree\bin\Debug\ShoppingSpree.exe
+C:\Users\Jordan\Documents\GitHub\Object-OrientedProgrammingBasics\Exercises_Encapsulation\ShoppingSpree\bin\Debug\ShoppingSpree.pdb
+C:\Users\Jordan\Documents\GitHub\Object-OrientedProgrammingBasics\Exercises_Encapsulation\ShoppingSpree\obj\Debug\ShoppingSpree.exe
+C:\Users\Jordan\Documents\GitHub\Object-OrientedProgrammingBasics\Exercises_Encapsulation\ShoppingSpree\obj\Debug\ShoppingSpree.pdb
+C:\Users\Jordan\Documents\GitHub\Object-OrientedProgrammingBasics\Exercises_Encapsulation\ShoppingSpree\obj\Debug\ShoppingSpree.csprojResolveAssemblyReference.cache
