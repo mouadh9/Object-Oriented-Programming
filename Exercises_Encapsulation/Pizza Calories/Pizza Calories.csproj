@@ -43,10 +43,9 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Models\BakingTechnique.cs" />
     <Compile Include="Models\Dough.cs" />
-    <Compile Include="Models\FlourType.cs" />
     <Compile Include="Models\Pizza.cs" />
+    <Compile Include="Models\Topping.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
