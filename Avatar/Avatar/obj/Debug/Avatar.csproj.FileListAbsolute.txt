@@ -1,0 +1,5 @@
+C:\Users\Jordan\Documents\GitHub\Object-OrientedProgrammingBasics\Avatar\Avatar\bin\Debug\Avatar.exe.config
+C:\Users\Jordan\Documents\GitHub\Object-OrientedProgrammingBasics\Avatar\Avatar\bin\Debug\Avatar.exe
+C:\Users\Jordan\Documents\GitHub\Object-OrientedProgrammingBasics\Avatar\Avatar\bin\Debug\Avatar.pdb
+C:\Users\Jordan\Documents\GitHub\Object-OrientedProgrammingBasics\Avatar\Avatar\obj\Debug\Avatar.exe
+C:\Users\Jordan\Documents\GitHub\Object-OrientedProgrammingBasics\Avatar\Avatar\obj\Debug\Avatar.pdb
