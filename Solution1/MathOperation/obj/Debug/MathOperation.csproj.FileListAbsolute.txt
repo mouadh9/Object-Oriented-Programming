@@ -1,0 +1,6 @@
+C:\Users\Jordan\Documents\GitHub\Object-OrientedProgrammingBasics\Solution1\MathOperation\bin\Debug\MathOperation.exe.config
+C:\Users\Jordan\Documents\GitHub\Object-OrientedProgrammingBasics\Solution1\MathOperation\bin\Debug\MathOperation.exe
+C:\Users\Jordan\Documents\GitHub\Object-OrientedProgrammingBasics\Solution1\MathOperation\bin\Debug\MathOperation.pdb
+C:\Users\Jordan\Documents\GitHub\Object-OrientedProgrammingBasics\Solution1\MathOperation\obj\Debug\MathOperation.exe
+C:\Users\Jordan\Documents\GitHub\Object-OrientedProgrammingBasics\Solution1\MathOperation\obj\Debug\MathOperation.pdb
+C:\Users\Jordan\Documents\GitHub\Object-OrientedProgrammingBasics\Solution1\MathOperation\obj\Debug\MathOperation.csprojResolveAssemblyReference.cache

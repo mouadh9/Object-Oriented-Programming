@@ -1,0 +1,6 @@
+C:\Users\Jordan\Documents\GitHub\Object-OrientedProgrammingBasics\Solution1\Shapes\bin\Debug\Shapes.exe.config
+C:\Users\Jordan\Documents\GitHub\Object-OrientedProgrammingBasics\Solution1\Shapes\bin\Debug\Shapes.exe
+C:\Users\Jordan\Documents\GitHub\Object-OrientedProgrammingBasics\Solution1\Shapes\bin\Debug\Shapes.pdb
+C:\Users\Jordan\Documents\GitHub\Object-OrientedProgrammingBasics\Solution1\Shapes\obj\Debug\Shapes.csprojResolveAssemblyReference.cache
+C:\Users\Jordan\Documents\GitHub\Object-OrientedProgrammingBasics\Solution1\Shapes\obj\Debug\Shapes.exe
+C:\Users\Jordan\Documents\GitHub\Object-OrientedProgrammingBasics\Solution1\Shapes\obj\Debug\Shapes.pdb

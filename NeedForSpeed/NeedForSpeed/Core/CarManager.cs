@@ -6,10 +6,13 @@ public class CarManager
     private Dictionary<int, Race> races;
     private Garage garage;
 
+    private List<int> racesclosed;
+
     public CarManager()
     {
         this.cars = new Dictionary<int, Car>();
         this.races = new Dictionary<int, Race>();
+        this.racesclosed = new List<int>();
         this.garage = new Garage();
     }
 
@@ -53,13 +56,22 @@ public class CarManager
     {
         if (!garage.ParkedCars.Contains(carId))
         {
-            this.races[raceId].Participants.Add(carId, cars[carId]);
+            if (!racesclosed.Contains(raceId))
+            {
+                this.races[raceId].Participants.Add(carId, cars[carId]);
+            }
         }
     }
 
     public string Start(int id)
     {
-        return races[id].StartRace();
+        if (races[id].Participants.Count == 0)
+        {
+            return "Cannot start the race with zero participants.";
+        }
+        var result = races[id].StartRace();
+        racesclosed.Add(id);
+        return result;
     }
 
     public void Park(int id)
