@@ -1,0 +1,5 @@
+C:\Users\Jordan\Documents\GitHub\Object-OrientedProgrammingBasics\Exercises_Inheritance\Person\bin\Debug\Person.exe.config
+C:\Users\Jordan\Documents\GitHub\Object-OrientedProgrammingBasics\Exercises_Inheritance\Person\bin\Debug\Person.exe
+C:\Users\Jordan\Documents\GitHub\Object-OrientedProgrammingBasics\Exercises_Inheritance\Person\bin\Debug\Person.pdb
+C:\Users\Jordan\Documents\GitHub\Object-OrientedProgrammingBasics\Exercises_Inheritance\Person\obj\Debug\Person.exe
+C:\Users\Jordan\Documents\GitHub\Object-OrientedProgrammingBasics\Exercises_Inheritance\Person\obj\Debug\Person.pdb

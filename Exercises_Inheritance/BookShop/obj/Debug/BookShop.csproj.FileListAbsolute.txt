@@ -1,0 +1,6 @@
+C:\Users\Jordan\Documents\GitHub\Object-OrientedProgrammingBasics\Exercises_Inheritance\BookShop\bin\Debug\BookShop.exe.config
+C:\Users\Jordan\Documents\GitHub\Object-OrientedProgrammingBasics\Exercises_Inheritance\BookShop\bin\Debug\BookShop.exe
+C:\Users\Jordan\Documents\GitHub\Object-OrientedProgrammingBasics\Exercises_Inheritance\BookShop\bin\Debug\BookShop.pdb
+C:\Users\Jordan\Documents\GitHub\Object-OrientedProgrammingBasics\Exercises_Inheritance\BookShop\obj\Debug\BookShop.csprojResolveAssemblyReference.cache
+C:\Users\Jordan\Documents\GitHub\Object-OrientedProgrammingBasics\Exercises_Inheritance\BookShop\obj\Debug\BookShop.exe
+C:\Users\Jordan\Documents\GitHub\Object-OrientedProgrammingBasics\Exercises_Inheritance\BookShop\obj\Debug\BookShop.pdb

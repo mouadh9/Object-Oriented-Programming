@@ -1,0 +1,6 @@
+C:\Users\Jordan\Documents\GitHub\Object-OrientedProgrammingBasics\Exercises_Inheritance\Mankind\bin\Debug\Mankind.exe.config
+C:\Users\Jordan\Documents\GitHub\Object-OrientedProgrammingBasics\Exercises_Inheritance\Mankind\bin\Debug\Mankind.exe
+C:\Users\Jordan\Documents\GitHub\Object-OrientedProgrammingBasics\Exercises_Inheritance\Mankind\bin\Debug\Mankind.pdb
+C:\Users\Jordan\Documents\GitHub\Object-OrientedProgrammingBasics\Exercises_Inheritance\Mankind\obj\Debug\Mankind.csprojResolveAssemblyReference.cache
+C:\Users\Jordan\Documents\GitHub\Object-OrientedProgrammingBasics\Exercises_Inheritance\Mankind\obj\Debug\Mankind.exe
+C:\Users\Jordan\Documents\GitHub\Object-OrientedProgrammingBasics\Exercises_Inheritance\Mankind\obj\Debug\Mankind.pdb

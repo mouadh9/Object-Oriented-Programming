@@ -3,7 +3,31 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
 VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Person", "Person\Person.csproj", "{BB97B107-EB36-4FDF-B0C1-837272A94CC9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BookShop", "BookShop\BookShop.csproj", "{129AD9B4-A382-46DE-B518-7611D4E3BCE1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mankind", "Mankind\Mankind.csproj", "{E5CF61FF-349C-4C03-94AA-F0D8CBCC3C62}"
+EndProject
 Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BB97B107-EB36-4FDF-B0C1-837272A94CC9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BB97B107-EB36-4FDF-B0C1-837272A94CC9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BB97B107-EB36-4FDF-B0C1-837272A94CC9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BB97B107-EB36-4FDF-B0C1-837272A94CC9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{129AD9B4-A382-46DE-B518-7611D4E3BCE1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{129AD9B4-A382-46DE-B518-7611D4E3BCE1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{129AD9B4-A382-46DE-B518-7611D4E3BCE1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{129AD9B4-A382-46DE-B518-7611D4E3BCE1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E5CF61FF-349C-4C03-94AA-F0D8CBCC3C62}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E5CF61FF-349C-4C03-94AA-F0D8CBCC3C62}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E5CF61FF-349C-4C03-94AA-F0D8CBCC3C62}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E5CF61FF-349C-4C03-94AA-F0D8CBCC3C62}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
