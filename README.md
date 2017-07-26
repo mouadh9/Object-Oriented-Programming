@@ -4,9 +4,9 @@
 ##Process of wrapping code and data together into a single unit
        class Person
        {
-        private string firstName;
-        private string lastName;
-  
+              private string firstName;
+               private string lastName;
+ 
         public Person(string firstName, string lastName)
         {
           this.FirstName = firstName;
