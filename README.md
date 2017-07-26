@@ -2,6 +2,7 @@
 
 # Encapsulation
 ##Process of wrapping code and data together into a single unit
+
        class Person
        {
         private string firstName;
@@ -25,6 +26,7 @@
           set { this.lastName = value; } 
         }
       }
+       
 _________________________________________________________________________________________________________________________________
 # Inheritance
 Superclass - Parent class, Base Class - The class giving its members to its child class
