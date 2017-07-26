@@ -31,22 +31,22 @@ Superclass - Parent class, Base Class - The class giving its members to its chil
                    ^
 Subclass - Child class, Derived Class - The class taking members from its base class
 
-class Animal{
-   void Eat();
-}
+      class Animal{
+         void Eat();
+      }
 
-class Dog(){
-  void Bark();
-}
-static void Main()
-{
-  Animal animal = new Animal();
-  animal.Eat();
+      class Dog(){
+        void Bark();
+      }
+      static void Main()
+      {
+        Animal animal = new Animal();
+        animal.Eat();
          
-  Dog dog = new Dog();
-  dog.Bark();
-  dog.Eat();
-}
+        Dog dog = new Dog();
+        dog.Bark();
+        dog.Eat();
+      }
 
 ##Virtual Methods – defines a method that can be overriden
 public class Animal
