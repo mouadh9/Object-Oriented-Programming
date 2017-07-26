@@ -4,8 +4,8 @@
 ##Process of wrapping code and data together into a single unit
        class Person
        {
-              private string firstName;
-               private string lastName;
+        private string firstName;
+        private string lastName;
  
         public Person(string firstName, string lastName)
         {
@@ -28,7 +28,9 @@
 _________________________________________________________________________________________________________________________________
 # Inheritance
 Superclass - Parent class, Base Class - The class giving its members to its child class
+
                    ^
+                   
 Subclass - Child class, Derived Class - The class taking members from its base class
 
       class Animal{
