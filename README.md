@@ -2,29 +2,29 @@
 
 # Encapsulation
 ##Process of wrapping code and data together into a single unit
-class Person
-{
-  private string firstName;
-  private string lastName;
+      class Person
+      {
+        private string firstName;
+        private string lastName;
   
-  public Person(string firstName, string lastName)
-  {
-  this.FirstName = firstName;
-  this.LastName = lastName;
-  }
+        public Person(string firstName, string lastName)
+        {
+          this.FirstName = firstName;
+          this.LastName = lastName;
+        }
   
-  public string FirstName
-  { 
-    get { return this.firstName; } 
-    set { this.firstName = value; } 
-  }
+        public string FirstName
+        { 
+          get { return this.firstName; } 
+          set { this.firstName = value; } 
+        }
   
-  public string LastName
-  { 
-    get { return this.lastName; } 
-    set { this.lastName = value; } 
-  }
-}
+        public string LastName
+        { 
+          get { return this.lastName; } 
+          set { this.lastName = value; } 
+        }
+      }
 _________________________________________________________________________________________________________________________________
 # Inheritance
 Superclass - Parent class, Base Class - The class giving its members to its child class
