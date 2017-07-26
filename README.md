@@ -1,4 +1,4 @@
-#### Object-Oriented Programming Summary####
+# Object-Oriented Programming Summary
 
 # Encapsulation
 ##Process of wrapping code and data together into a single unit
@@ -26,7 +26,7 @@ class Person
   }
 }
 _________________________________________________________________________________________________________________________________
-#Inheritance
+# Inheritance
 Superclass - Parent class, Base Class - The class giving its members to its child class
                    ^
 Subclass - Child class, Derived Class - The class taking members from its base class
@@ -48,7 +48,7 @@ static void Main()
   dog.Eat();
 }
 
-## Virtual Methods – defines a method that can be overriden
+##Virtual Methods – defines a method that can be overriden
 public class Animal
 {
   public virtual void Eat() { … }
@@ -59,8 +59,8 @@ public class Dog : Animal
   public override void Eat() {}
 }
 _________________________________________________________________________________________________________________________________
-#Polymorphism
-## Ability of an object to take on many forms
+# Polymorphism
+##Ability of an object to take on many forms
 
 public interface IAnimal {}
 public abstract class Mammal {}
@@ -115,7 +115,7 @@ public class Rectangle : Shape
   public override double CalculateArea() {...}
   public sealed override string Draw() {return base.Draw() + "Rectangle"; }
 }
-## Keyword - sealed - Modifier that  prevents other classes from inheriting from it
+##Keyword - sealed - Modifier that  prevents other classes from inheriting from it
               public abstract class Shape {}
               public sealed class Rectangle : Shape {}
               public class Sqaure : Rectangle {}//Compile time error
@@ -129,7 +129,7 @@ public class Rectangle : Shape
                  public override double GetArea() {}   //Compile time error
               }
               
-## Static classes cannot be instantiated
+##Static classes cannot be instantiated
 Math.Abs(-3.14);
 Initialization of Static class is just before the first time usage.
 Memory Clearance of Static class is On program exit.
