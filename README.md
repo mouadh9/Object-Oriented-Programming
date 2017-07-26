@@ -2,8 +2,8 @@
 
 # Encapsulation
 ##Process of wrapping code and data together into a single unit
-      class Person
-      {
+       class Person
+       {
         private string firstName;
         private string lastName;
   
